@@ -1,0 +1,11 @@
+/* styles.css */
+body {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.container {
+    max-width: 600px;
+}
+
+/* Add more styles as needed */
